@@ -1,0 +1,9 @@
+1|Schecter|C1 SLS Elite FR|1
+2|Schecter|Synyster Custom S|2
+3|Ibanez|GSA60|2
+4|Ibanez|RG5170b|2
+5|Gibson|Les Paul|1
+6|Music Man|Majesty|2
+7|Solar|S1.7SBB|1
+8|Squire|Stratocaster|4
+9|ESP|Snakebyte|1

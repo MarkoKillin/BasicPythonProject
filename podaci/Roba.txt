@@ -1,0 +1,9 @@
+1|Schecter|C1 SLS Elite FR|6|24|160000|6|podaci\Slike\c1sls.jpg
+2|Schecter|Synyster Custom S|6|24|140000|1|podaci\Slike\syn.png
+3|Ibanez|GSA60|6|22|26000|4|podaci\Slike\gsa60.jpg
+4|Ibanez|RG5170b|6|24|180000|2|podaci\Slike\rg5170b.jpg
+5|Gibson|Les Paul|6|22|325000|2|podaci\Slike\lespaul.jpg
+6|Music Man|Majesty|7|24|410000|1|podaci\Slike\majesty.jpg
+7|Solar|S1.7SBB|7|24|140000|6|podaci\Slike\solar.png
+8|Squire|Stratocaster|6|21|22000|4|podaci\Slike\stratocaster.jpg
+9|ESP|Snakebyte|6|22|350000|2|podaci\Slike\snakebyte.jpg
